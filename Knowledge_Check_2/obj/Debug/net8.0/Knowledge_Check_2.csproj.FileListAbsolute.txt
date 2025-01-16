@@ -1,0 +1,15 @@
+D:\codeYou\KLCheck2\Knowledge_Check_2\Knowledge_Check_2\obj\Debug\net8.0\Knowledge_Check_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\codeYou\KLCheck2\Knowledge_Check_2\Knowledge_Check_2\obj\Debug\net8.0\Knowledge_Check_2.AssemblyInfoInputs.cache
+D:\codeYou\KLCheck2\Knowledge_Check_2\Knowledge_Check_2\obj\Debug\net8.0\Knowledge_Check_2.AssemblyInfo.cs
+D:\codeYou\KLCheck2\Knowledge_Check_2\Knowledge_Check_2\obj\Debug\net8.0\Knowledge_Check_2.csproj.CoreCompileInputs.cache
+D:\codeYou\KLCheck2\Knowledge_Check_2\Knowledge_Check_2\obj\Debug\net8.0\Knowledge_Check_2.sourcelink.json
+D:\codeYou\KLCheck2\Knowledge_Check_2\Knowledge_Check_2\bin\Debug\net8.0\Knowledge_Check_2.exe
+D:\codeYou\KLCheck2\Knowledge_Check_2\Knowledge_Check_2\bin\Debug\net8.0\Knowledge_Check_2.deps.json
+D:\codeYou\KLCheck2\Knowledge_Check_2\Knowledge_Check_2\bin\Debug\net8.0\Knowledge_Check_2.runtimeconfig.json
+D:\codeYou\KLCheck2\Knowledge_Check_2\Knowledge_Check_2\bin\Debug\net8.0\Knowledge_Check_2.dll
+D:\codeYou\KLCheck2\Knowledge_Check_2\Knowledge_Check_2\bin\Debug\net8.0\Knowledge_Check_2.pdb
+D:\codeYou\KLCheck2\Knowledge_Check_2\Knowledge_Check_2\obj\Debug\net8.0\Knowledge_Check_2.dll
+D:\codeYou\KLCheck2\Knowledge_Check_2\Knowledge_Check_2\obj\Debug\net8.0\refint\Knowledge_Check_2.dll
+D:\codeYou\KLCheck2\Knowledge_Check_2\Knowledge_Check_2\obj\Debug\net8.0\Knowledge_Check_2.pdb
+D:\codeYou\KLCheck2\Knowledge_Check_2\Knowledge_Check_2\obj\Debug\net8.0\Knowledge_Check_2.genruntimeconfig.cache
+D:\codeYou\KLCheck2\Knowledge_Check_2\Knowledge_Check_2\obj\Debug\net8.0\ref\Knowledge_Check_2.dll
